@@ -23,7 +23,7 @@ const Footer = () => {
               </Link>
               <Link href="https://www.sanatanved.com/">
                 <a target="_blank" className="mr-5 hover:text-gray-900">
-                  Go to Main Website
+                  Main-Website
                 </a>
               </Link>
               <Link href="https://www.sanatanved.com/services">

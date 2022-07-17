@@ -10,7 +10,7 @@ const NavBar = () => {
         </Link>
         <Link href="https://www.sanatanved.com">
           <a target="_blank" className="mr-5 hover:text-white-900">
-            Go to main website
+            Main-Website
           </a>
         </Link>
         <Link href="https://www.sanatanved.com/services">
